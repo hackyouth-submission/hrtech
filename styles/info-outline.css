@@ -13,8 +13,10 @@ input {
 	border: none;
 }
 body {
-  width: 2.2rem;
-}.info-outline-QPA {
+  max-width: 39rem;
+  margin: auto;
+}
+.info-outline-QPA {
   width: 100%;
   height: 2.2rem;
   object-fit: contain;

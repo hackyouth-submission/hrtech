@@ -13,8 +13,10 @@ input {
 	border: none;
 }
 body {
-  width: 39rem;
-}.home-page-yeQ {
+  max-width: 39rem;
+  margin: auto;
+}
+.home-page-yeQ {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -109,12 +111,12 @@ body {
 }
 .home-page-yeQ .auto-group-e6ue-1b6 .big-function-in-the-first-section-MPN .personal-medical-test-etG {
   margin: 0rem 0rem 1.118rem 2.6rem;
-  max-width: 12.1rem;
+  max-width: 27rem;
   display: flex;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.2125;
-  color: #000000;
+  color: white;
   font-family: Inter, 'Source Sans Pro';
 }
 .home-page-yeQ .auto-group-e6ue-1b6 .big-function-in-the-first-section-MPN .the-start-rectangle-A5v {
@@ -263,7 +265,7 @@ body {
   font-size: 0.5rem;
   font-weight: 400;
   line-height: 1.2125;
-  color: #ffffff;
+  color: #black;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   align-items: center;
@@ -332,7 +334,7 @@ body {
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.2125;
-  color: #000000;
+  color: white;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;

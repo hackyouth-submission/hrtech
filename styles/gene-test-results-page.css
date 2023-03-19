@@ -13,8 +13,10 @@ input {
 	border: none;
 }
 body {
-  width: 39rem;
-}.gene-test-results-page-ibJ {
+  max-width: 39rem;
+  margin: auto;
+}
+.gene-test-results-page-ibJ {
   width: 100%;
   overflow: hidden;
   position: relative;
