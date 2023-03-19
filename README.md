@@ -1,5 +1,12 @@
 # HRTech -
 *HackYouth 2023*
+
+## How to use
+```
+git init
+git clone https://github.com/hackyouth-submission/hrtech.git
+pip install requirement.txt
+```
 ## 🖥 Presentation
 [HRTech-]()
 ## 📚 Tech Stack
